@@ -1,1 +1,1 @@
-Hi I'm Henry, I'm learning Python, Java and Node.js👍
+# Hello I'm a learner of Python, C++ and C#.
