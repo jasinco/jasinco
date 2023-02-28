@@ -1,1 +1,1 @@
-# Hello I am a man
+# Code is art, code as art
