@@ -1,0 +1,8 @@
+html {
+    /** 設定領銜主色 */
+    --ts-accent-color: #231a1a;
+}
+body{
+    width: 100vw;
+    height: 100vh;
+}
